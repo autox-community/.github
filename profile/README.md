@@ -6,6 +6,7 @@
 | VSCode 插件  | [autox-community/Auto.js-VSCode-Extension](https://github.com/autox-community/Auto.js-VSCode-Extension) |
 | 代码合集     | [autox-community/autojs_code_collect](https://github.com/autox-community/autojs_code_collect)           |
 | js 转 dex    | [autox-community/Autojs_Rhino_Dex](https://github.com/autox-community/Autojs_Rhino_Dex)                 |
+| AutoX 图色工具 (取色器) | [autox-community/ScriptGraphicHelper](https://github.com/autox-community/ScriptGraphicHelper) |
 
 ## 其他
 
