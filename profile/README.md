@@ -1,12 +1,13 @@
 | 名称         | GitHub 地址                                                                                             |
 | ------------ | ------------------------------------------------------------------------------------------------------- |
 | AutoX 工程化 | [autox-community/autox-super-kit](https://github.com/autox-community/autox-super-kit)                   |
+| AutoX 图色工具 (取色器) | [autox-community/ScriptGraphicHelper](https://github.com/autox-community/ScriptGraphicHelper) |
 | AutoX 源码   | [autox-community/AutoX](https://github.com/autox-community/AutoX)                                       |
 | AutoX 文档   | [autox-community/AutoX_Docs](https://github.com/autox-community/AutoX_Docs)                             |
 | VSCode 插件  | [autox-community/Auto.js-VSCode-Extension](https://github.com/autox-community/Auto.js-VSCode-Extension) |
 | 代码合集     | [autox-community/autojs_code_collect](https://github.com/autox-community/autojs_code_collect)           |
 | js 转 dex    | [autox-community/Autojs_Rhino_Dex](https://github.com/autox-community/Autojs_Rhino_Dex)                 |
-| AutoX 图色工具 (取色器) | [autox-community/ScriptGraphicHelper](https://github.com/autox-community/ScriptGraphicHelper) |
+
 
 ## 其他
 
